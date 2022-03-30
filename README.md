@@ -1,8 +1,6 @@
-<h1>Hello World!💻 - oh!, sorry...😄 Hi!, I'm Emanuel 👋</h1>
+## Hi!, I'm Emanuel 👋 <i>Frontend developer</i> 👨🏻‍💻<br>
 
-<h3>Frontend developer 👨🏻‍💻</h3><br><br>
-
-## 💫 My Current Stack:
+### 💫 My Current Stack & Tools:
 <p align="left">
   <div align="left">
     <code><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a></code>
@@ -13,9 +11,8 @@
     <code><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a></code>
   </div>
 </p>
-<br><br>
+<br>
 
-## 🛠 Tools:
 <p align="left">
   <div align="left">
     <code><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a></code>
@@ -28,13 +25,10 @@
 
 - 🤓 **Github Stats:**
 
-<p align="center">
-  
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emavalente&hide=stars&show_icons=true&theme=dracula&line_height=32">
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emavalente&theme=dracula&layout=compact" />
+<p align="left">
+ <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emavalente&theme=dracula&layout=compact" />
 </p>
-
-<br><br>
+<br>
 
 - 🤝🏻 **Contact to me:**<br><br>
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.https://www.linkedin.com/in/emanuel-valente/)](https://www.https://www.linkedin.com/in/emanuel-valente/)
@@ -42,7 +36,7 @@
   [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:ema_zero@hotmail.com)](mailto:ema_zero@hotmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/emavalente/)](https://github.com/emavalente/)<br><br>
 
-- 💻 **Visitors**<br>
+- 💻 **Visitors**<br><br>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=emavalente.emavalente)
 ![ViewCount](https://views.whatilearened.today/views/github/verma-anushka/verma-anushka.svg)
 [![Github](https://img.shields.io/github/followers/emavalente?label=Follow&style=social)](https://github.com/emavalente)
