@@ -1,4 +1,4 @@
-<h1> <Hello World!> 💻 oh!, sorry...😄 Hi! I'm Emanuel 👋 </h1>
+<h1>Hello World!💻 - oh!, sorry...😄 Hi!, I'm Emanuel 👋</h1>
 
 <h3>Frontend developer 👨🏻‍💻</h3><br><br>
 
