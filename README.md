@@ -37,7 +37,7 @@ Y por que no poder ir más allá en algún momento y por supuesto seguir desarro
 <br>
 
 - 🤝🏻 **Contact to me:**<br><br>
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.https://www.linkedin.com/in/emanuel-valente/)](https://www.https://www.linkedin.com/in/emanuel-valente/)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.https://www.linkedin.com/in/emanuel-valente/)](https://www.linkedin.com/in/emanuel-valente/)
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emavalente.dev@gmail.com)](mailto:emavalente.dev@gmail.com)
   [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:ema_zero@hotmail.com)](mailto:ema_zero@hotmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/emavalente/)](https://github.com/emavalente/)<br><br>
