@@ -1,5 +1,11 @@
-## Hi!, I'm Emanuel 👋 <i>Frontend developer</i> 👨🏻‍💻<br>
-
+## Hola!, Soy Emanuel 👋 <i>Frontend developer</i> 👨🏻‍💻<br>
+<p align="left">
+ Decidí darme la oportunidad de dedicarme a lo que realmente me gusta, y en ello combinar algunas cualidades de mi.. que mejor que haberme decidido por el Frontend.
+Uno de mis pasatiempos siempre fue el dibujo, el arte, desde muy pequeño lo que me da un detalle y destreza para el diseño. El gusto por la informática siempre fue otro de mis grandes pasatiempos y bueno aca estamos combinando ambos.
+Y por que no poder ir más allá en algún momento y por supuesto seguir desarrollandome a mi mismo tambien. Siempre hay espacio para algo más!.
+</p>
+<br>
+<br>
 ### 💫 My Current Stack & Tools:
 <p align="left">
   <div align="left">
