@@ -1,4 +1,10 @@
-## Hola!, Soy Emanuel 👋 <i>Frontend developer JR.</i> 👨🏻‍💻<br>
+<div align="right">
+<img src="https://img.shields.io/github/followers/emavalente?color=pink&logo=github&style=for-the-badge" alt="evalente"> 
+<img src="https://img.shields.io/github/watchers/emavalente/emavalente?color=pink&logo=github&style=for-the-badge" alt="evalente" />
+</div>
+<br> 
+
+## Hola!, Soy Emanuel 👋 <i>Frontend developer JR.</i> 👨🏻‍💻 <br> 
 <p align="left">
  Decidí darme la oportunidad de dedicarme a lo que realmente me gusta, y en ello combinar algunas cualidades de mi.. que mejor que haberme decidido por el Frontend.
 Uno de mis pasatiempos siempre fue el dibujo, el arte, desde muy pequeño lo que me da un detalle y destreza para el diseño. El gusto por la informática siempre fue otro de mis grandes pasatiempos y bueno aca estamos combinando ambos.
@@ -6,7 +12,7 @@ Y por que no poder ir más allá en algún momento y por supuesto seguir desarro
 </p>
 <br>
 <div align="center">
-  <img height="25em"  src="https://komarev.com/ghpvc/?username=emavalente&label=Profile%20views&color=dd6387&style=flat" alt="ltherisod" />
+ 
 </div>
 
 
@@ -46,7 +52,7 @@ Y por que no poder ir más allá en algún momento y por supuesto seguir desarro
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/emavalente/)](https://github.com/emavalente/)<br><br>
 
 
-![Github](https://img.shields.io/github/followers/emavalente?label=Follow&style=social)
+
 <!--
 **emavalente/emavalente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
