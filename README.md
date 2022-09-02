@@ -4,11 +4,22 @@
 </div>
 <br> 
 
-## Hola!, Soy Emanuel 👋 <i>Frontend developer JR.</i> 👨🏻‍💻 <br> 
+## 👋 Hola!, Soy Emanuel Valente 👨🏻‍💻 <br> 
+# <i>Frontend developer JR.</i>
+
+```javascript
+const emavalente = {
+  pronouns: "he" | "him",
+  code: [Javascript , HTML , CSS , Sass],
+  tools: [ReactJS, NodeJS, GIT]
+}
+```
+
+### 💥 Sobre mi:
 <p align="left">
- Decidí darme la oportunidad de dedicarme a lo que realmente me gusta, y en ello combinar algunas cualidades de mi.. que mejor que haberme decidido por el Frontend.
-Uno de mis pasatiempos siempre fue el dibujo, el arte, desde muy pequeño lo que me da un detalle y destreza para el diseño. El gusto por la informática siempre fue otro de mis grandes pasatiempos y bueno aca estamos combinando ambos.
-Y por que no poder ir más allá en algún momento y por supuesto seguir desarrollandome a mi mismo tambien. Siempre hay espacio para algo más!.
+Decidí darme la oportunidad de dedicarme a lo que realmente me gusta, y en ello combinar algunas cualidades de mi.. que mejor que haberme decidido por el Frontend.
+Uno de mis pasatiempos siempre fue el dibujo, el arte, desde muy pequeño, lo que me da un detalle y destreza para el diseño. El gusto por la informática siempre fue otro de mis grandes pasatiempos y bueno aquí estamos combinando ambos.
+Y por qué no poder ir más allá ? y por supuesto seguir desarrollandome a mi mismo tambien. Siempre hay espacio para algo más!.
 </p>
 <br>
 <div align="center">
@@ -18,7 +29,7 @@ Y por que no poder ir más allá en algún momento y por supuesto seguir desarro
 
 ##
 
-### 💫 My Current Stack & Tools:
+### 💫 Mi Stack Actual:
 <p align="left">
  <div style="display: inline_block"><br>
   <img align="center" alt="Lau-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
