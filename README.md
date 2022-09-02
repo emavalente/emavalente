@@ -65,13 +65,13 @@ Y por qué no poder ir más allá ? y por supuesto seguir desarrollandome a mi m
 <p width="300">
 📫 Contactame:
 </p>
-
  <br>
-
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emanuel-valente/)](https://www.linkedin.com/in/emanuel-valente/)
-  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emavalente.dev@gmail.com)](mailto:emavalente.dev@gmail.com)
-  [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:ema_zero@hotmail.com)](mailto:ema_zero@hotmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/emavalente/)](https://github.com/emavalente/)<br><br>
+  . GMail: emavalente.dev@gmail.com 
+  . Hotmail: ema_zero@hotmail.com
+  . Telefono: +54 1125025549
+  . LinkedIn: https://www.linkedin.com/in/emanuel-valente/
+  . Github: https://github.com/emavalente/
+  
 
 
 
