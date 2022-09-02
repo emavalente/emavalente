@@ -23,14 +23,12 @@ Decidí darme la oportunidad de dedicarme a lo que realmente me gusta, y en ello
 Uno de mis pasatiempos siempre fue el dibujo, el arte, desde muy pequeño, lo que me da un detalle y destreza para el diseño. El gusto por la informática siempre fue otro de mis grandes pasatiempos y bueno aquí estamos combinando ambos.
 Y por qué no poder ir más allá ? y por supuesto seguir desarrollandome a mi mismo tambien. Siempre hay espacio para algo más!.
 </p>
+
+<br>
 <br>
 
-##
-
 <p width="300">💫 Mi Stack Actual:</p>
-
-#
-
+<hr>
 <p align="left">
  <div style="display: inline_block"><br>
   <img align="center" alt="Lau-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
@@ -45,7 +43,7 @@ Y por qué no poder ir más allá ? y por supuesto seguir desarrollandome a mi m
 </div>
 </p>
 
-##
+<hr>
 
 <p width="300">🤓 Github Stats:</p>
 <br>
