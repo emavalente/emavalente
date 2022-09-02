@@ -17,8 +17,8 @@ const emavalente = {
   tools: [ReactJS, NodeJS, GIT]
 }
 ```
-
-### 💥 Sobre mi:
+<p width="300">💥 Sobre mi:</p>
+### 
 <p align="left">
 Decidí darme la oportunidad de dedicarme a lo que realmente me gusta, y en ello combinar algunas cualidades de mi.. que mejor que haberme decidido por el Frontend.
 Uno de mis pasatiempos siempre fue el dibujo, el arte, desde muy pequeño, lo que me da un detalle y destreza para el diseño. El gusto por la informática siempre fue otro de mis grandes pasatiempos y bueno aquí estamos combinando ambos.
@@ -29,10 +29,10 @@ Y por qué no poder ir más allá ? y por supuesto seguir desarrollandome a mi m
  
 </div>
 
-
 ##
 
-### 💫 Mi Stack Actual:
+<p width="300">💫 Mi Stack Actual:</p>
+<br>
 <p align="left">
  <div style="display: inline_block"><br>
   <img align="center" alt="Lau-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
@@ -48,27 +48,24 @@ Y por qué no poder ir más allá ? y por supuesto seguir desarrollandome a mi m
 </p>
 
 ##
-<p width="300">
-🤓 Github Stats:
-</p>
- <br><br>
+<p width="300">🤓 Github Stats:</p>
+<br>
 <div align="center">
   <a href="https://github.com/emavalente/emavalente">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=emavalente&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emavalente&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <br> 
+<p width="300">📫 Contactame:</p>
+<br>
+<div align="left">
+  <p>Gmail:<a href="emavalente.dev@gmail.com"></p>
+  <p>Hotmail:<a href="ema_zero@hotmail.com"></p>
+  <p>Teléfono: +54-3435143871</p>
+  <p>LinkedIn:<a href="https://www.linkedin.com/in/emanuel-valente/"></p>
+  <p>GitHub:<a href="https://github.com/emavalente/emavalente"></p>
+</div>
  
-- 📫 Contactame:
-  . GMail: emavalente.dev@gmail.com 
-  . Hotmail: ema_zero@hotmail.com
-  . Telefono: +54 1125025549
-  . LinkedIn: https://www.linkedin.com/in/emanuel-valente/
-  . Github: https://github.com/emavalente/
-  
-
-
-
 <!--
 **emavalente/emavalente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
