@@ -4,8 +4,12 @@
 </div>
 <br> 
 
-## 👋 Hola!, Soy Emanuel Valente 👨🏻‍💻 <br> 
-# <i>Frontend developer JR.</i>
+<p align="center" width="300">
+   <img align="center" width="200" src="https://user-images.githubusercontent.com/96089575/178333904-6405b69f-1de1-4788-8a88-eacbfaa70ddb.jpg" />
+   <h3 align="center">👋 Hola!, Soy Emanuel Valente 👨🏻‍💻</h3>
+</p>
+ <br> 
+ <p align="center">Soy <strong>Desarrollador FrontEnd Jr.</strong></p>
 
 ```javascript
 const emavalente = {
