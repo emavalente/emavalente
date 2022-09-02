@@ -64,7 +64,6 @@ Y por qué no poder ir más allá ? y por supuesto seguir desarrollandome a mi m
    <p>Hotmail: <a href="ema_zero@hotmail.com"> ema_zero@hotmail.com</a></p>
   <p>Teléfono: +54-3435143871</p>
    <p>LinkedIn: <a href="https://www.linkedin.com/in/emanuel-valente/">https://www.linkedin.com/in/emanuel-valente/</a></p>
-   <p>GitHub: <a href="https://github.com/emavalente/emavalente">https://github.com/emavalente/emavalente</a></p>
 </div>
  
 <!--
