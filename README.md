@@ -32,7 +32,7 @@ Y por qué no poder ir más allá ? y por supuesto seguir desarrollandome a mi m
 ##
 
 <p width="300">💫 Mi Stack Actual:</p>
-<br>
+#
 <p align="left">
  <div style="display: inline_block"><br>
   <img align="center" alt="Lau-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
