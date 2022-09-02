@@ -51,7 +51,6 @@ Y por qué no poder ir más allá ? y por supuesto seguir desarrollandome a mi m
 <p width="300">
 🤓 Github Stats:
 </p>
-
  <br><br>
 <div align="center">
   <a href="https://github.com/emavalente/emavalente">
@@ -61,8 +60,6 @@ Y por qué no poder ir más allá ? y por supuesto seguir desarrollandome a mi m
 <br> 
  
 - 📫 Contactame:
- <br>
-   
   . GMail: emavalente.dev@gmail.com 
   . Hotmail: ema_zero@hotmail.com
   . Telefono: +54 1125025549
