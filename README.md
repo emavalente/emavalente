@@ -60,8 +60,8 @@ Y por qué no poder ir más allá ? y por supuesto seguir desarrollandome a mi m
 <p width="300">📫 Contactame:</p>
 <br>
 <div align="left">
-  <p>Gmail: <a href="emavalente.dev@gmail.com"> emavalente.dev@gmail.com</a></p>
-   <p>Hotmail: <a href="ema_zero@hotmail.com"> ema_zero@hotmail.com</a></p>
+   <p>Gmail: emavalente.dev@gmail.com</p>
+   <p>Hotmail: ema_zero@hotmail.com</p>
   <p>Teléfono: +54-3435143871</p>
    <p>LinkedIn: <a href="https://www.linkedin.com/in/emanuel-valente/">https://www.linkedin.com/in/emanuel-valente/</a></p>
 </div>
