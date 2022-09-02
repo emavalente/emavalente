@@ -48,8 +48,10 @@ Y por qué no poder ir más allá ? y por supuesto seguir desarrollandome a mi m
 </p>
 
 ##
+<p width="300">
+🤓 Github Stats:
+</p>
 
-🤓 **Github Stats:**
  <br><br>
 <div align="center">
   <a href="https://github.com/emavalente/emavalente">
@@ -60,7 +62,10 @@ Y por qué no poder ir más allá ? y por supuesto seguir desarrollandome a mi m
 
  ## 
  
-📫 **Contactame:**
+<p width="300">
+📫 Contactame:
+</p>
+
  <br>
 
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emanuel-valente/)](https://www.linkedin.com/in/emanuel-valente/)
