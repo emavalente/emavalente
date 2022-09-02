@@ -49,7 +49,7 @@ Y por qué no poder ir más allá ? y por supuesto seguir desarrollandome a mi m
 
 ##
 
-- 🤓 **Github Stats:**
+🤓 **Github Stats:**
  <br><br>
 <div align="center">
   <a href="https://github.com/emavalente/emavalente">
@@ -60,8 +60,9 @@ Y por qué no poder ir más allá ? y por supuesto seguir desarrollandome a mi m
 
  ## 
  
- # 📫 **Contactame:**
- <br><br>
+📫 **Contactame:**
+ <br>
+
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emanuel-valente/)](https://www.linkedin.com/in/emanuel-valente/)
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emavalente.dev@gmail.com)](mailto:emavalente.dev@gmail.com)
   [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:ema_zero@hotmail.com)](mailto:ema_zero@hotmail.com)
