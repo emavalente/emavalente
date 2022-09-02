@@ -5,7 +5,7 @@
 <br> 
 
 <p align="center" width="300">
-   <h3 align="center">👋 Hola!, Soy Emanuel Valente 👨🏻‍💻</h3>
+   <h2 align="center">👋 Hola!, Soy Emanuel Valente 👨🏻‍💻</h2>
 </p>
  <br> 
  <p align="center">Soy <strong>Desarrollador FrontEnd Jr.</strong></p>
