@@ -42,8 +42,9 @@ Y por qué no poder ir más allá ? y por supuesto seguir desarrollandome a mi m
   <img align="center" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="30"/>
 </div>
 </p>
+<br>
 
-<hr>
+#
 
 <p width="300">🤓 Github Stats:</p>
 <br>
@@ -53,6 +54,9 @@ Y por qué no poder ir más allá ? y por supuesto seguir desarrollandome a mi m
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emavalente&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <br> 
+   
+#
+   
 <p width="300">📫 Contactame:</p>
 <br>
 <div align="left">
