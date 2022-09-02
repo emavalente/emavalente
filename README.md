@@ -60,7 +60,7 @@ Y por qué no poder ir más allá ? y por supuesto seguir desarrollandome a mi m
 
  ## 
  
- - 📫 **Contactame:**
+ # 📫 **Contactame:**
  <br><br>
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emanuel-valente/)](https://www.linkedin.com/in/emanuel-valente/)
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emavalente.dev@gmail.com)](mailto:emavalente.dev@gmail.com)
