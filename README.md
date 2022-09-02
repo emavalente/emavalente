@@ -58,14 +58,11 @@ Y por qué no poder ir más allá ? y por supuesto seguir desarrollandome a mi m
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=emavalente&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emavalente&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<br>
-
- ## 
+<br> 
  
-<p width="300">
-📫 Contactame:
-</p>
+- 📫 Contactame:
  <br>
+   
   . GMail: emavalente.dev@gmail.com 
   . Hotmail: ema_zero@hotmail.com
   . Telefono: +54 1125025549
