@@ -18,21 +18,19 @@ const emavalente = {
 }
 ```
 <p width="300">💥 Sobre mi:</p>
-### 
 <p align="left">
 Decidí darme la oportunidad de dedicarme a lo que realmente me gusta, y en ello combinar algunas cualidades de mi.. que mejor que haberme decidido por el Frontend.
 Uno de mis pasatiempos siempre fue el dibujo, el arte, desde muy pequeño, lo que me da un detalle y destreza para el diseño. El gusto por la informática siempre fue otro de mis grandes pasatiempos y bueno aquí estamos combinando ambos.
 Y por qué no poder ir más allá ? y por supuesto seguir desarrollandome a mi mismo tambien. Siempre hay espacio para algo más!.
 </p>
 <br>
-<div align="center">
- 
-</div>
 
 ##
 
 <p width="300">💫 Mi Stack Actual:</p>
+
 #
+
 <p align="left">
  <div style="display: inline_block"><br>
   <img align="center" alt="Lau-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
@@ -48,6 +46,7 @@ Y por qué no poder ir más allá ? y por supuesto seguir desarrollandome a mi m
 </p>
 
 ##
+
 <p width="300">🤓 Github Stats:</p>
 <br>
 <div align="center">
