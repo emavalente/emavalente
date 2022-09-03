@@ -56,8 +56,7 @@ Y por qué no poder ir más allá ? y por supuesto seguir desarrollandome a mi m
 <br> 
 
    
-<p width="300">📫 Contactame:</p>
-<br>
+<p width="300"></p>
 <div align="left">
   <p>Gmail: emavalente.dev@gmail.com</p>
   <p>Hotmail: ema_zero@hotmail.com</p>
@@ -66,6 +65,6 @@ Y por qué no poder ir más allá ? y por supuesto seguir desarrollandome a mi m
 </div>
  
 <!--
-**emavalente/emavalente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**emavalente/emavalente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --!>
 
 
