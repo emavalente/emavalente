@@ -54,16 +54,15 @@ Y por qué no poder ir más allá ? y por supuesto seguir desarrollandome a mi m
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emavalente&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <br> 
-   
-#
+
    
 <p width="300">📫 Contactame:</p>
 <br>
 <div align="left">
-   <p>Gmail: emavalente.dev@gmail.com</p>
-   <p>Hotmail: ema_zero@hotmail.com</p>
+  <p>Gmail: emavalente.dev@gmail.com</p>
+  <p>Hotmail: ema_zero@hotmail.com</p>
   <p>Teléfono: +54-3435143871</p>
-   <p>LinkedIn: <a href="https://www.linkedin.com/in/emanuel-valente/">https://www.linkedin.com/in/emanuel-valente/</a></p>
+  <p>LinkedIn: <a href="https://www.linkedin.com/in/emanuel-valente/">https://www.linkedin.com/in/emanuel-valente/</a></p>
 </div>
  
 <!--
