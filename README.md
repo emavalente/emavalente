@@ -55,7 +55,7 @@ Y por qué no poder ir más allá ? y por supuesto seguir desarrollandome a mi m
 </div>
 <br> 
    
-<p width="300">🤓 Contactame:</p>
+<p> Contactame: </p>
    
  
 <!--
