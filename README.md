@@ -55,7 +55,7 @@ Y por qué no poder ir más allá ? y por supuesto seguir desarrollandome a mi m
 
   - Gmail: emavalente.dev@gmail.com
   - Hotmail: ema_zero@hotmail.com
-  - Telefono: +54 1125025549
+  - Telefono: +54 3435143871
   - LinkedIn: https://www.linkedin.com/in/emanuel-valente/
   
 <!--
