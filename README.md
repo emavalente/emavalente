@@ -1,6 +1,5 @@
 <div align="right">
 <img src="https://img.shields.io/github/followers/emavalente?color=pink&logo=github&style=for-the-badge" alt="evalente"> 
-<img src="https://img.shields.io/github/watchers/emavalente/emavalente?color=pink&logo=github&style=for-the-badge" alt="evalente" />
 </div>
 <br> 
 
