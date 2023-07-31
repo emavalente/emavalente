@@ -62,7 +62,6 @@ Y por qué no ir más allá ? y por supuesto seguir desarrollandome a mi mismo t
 <p>📫 Contactame: </p>
 
   - Gmail: emavalente.dev@gmail.com
-  - Hotmail: ema_zero@hotmail.com
   - LinkedIn: https://www.linkedin.com/in/emanuel-valente/
   
 <!--
