@@ -13,7 +13,6 @@
 ```javascript
 const emavalente = {
   profession: ["Frontend Developer", "PC technician", "Electronic technician", "Hand illustrator" ],
-  pronouns: "he" | "him",
   code: ["Javascript" , "HTML" , "CSS"],
   tools: ["ReactJS", "NodeJS", "Sass", "Bootstrap", "Tailwind", "GIT"]
 }
