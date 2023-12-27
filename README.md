@@ -12,15 +12,15 @@
  
 ```javascript
 const emavalente = {
-  profession: ["Frontend Developer", "PC technician", "Electronic technician", "Hand illustrator" ],
-  code: ["Javascript" , "HTML" , "CSS"],
-  tools: ["ReactJS", "NodeJS", "Sass", "Bootstrap", "Tailwind", "GIT"]
+  profession: ["Frontend Developer", "PC technician", "Electronic technician", "illustrator" ],
+  code: ["Javascript", "HTML", "CSS"],
+  tools: ["ReactJS", "Redux Toolkit", "Sass", "Bootstrap", "Tailwind", "GIT", "RestApi comunication", "Figma"]
 }
 ```
 <br> 
 <p width="300">💥 Sobre mi:</p>
 <p align="left">
-Soy de la provincia de Entre Ríos (Argentina) y llevo 2 años en el desarrollo Frontend y actualmente con ganas de adentrarme al desarrollo Backend.
+Soy de la provincia de Entre Ríos (Argentina), llevo 2 años en el desarrollo Frontend y actualmente con muchas ganas de adentrarme al desarrollo Backend.
 </p>
 <p align="left">
 Uno de mis pasatiempos desde pequeño siempre fue el dibujo, el arte, lo que me da destreza para el diseño, el detalle y la creación de interfaces agradables. Asi también lo fue la informática, otro de mis grandes pasatiempos y en lo que me adentré no solo en lo técnico sino también en lo analítico; y bueno aquí estamos combinando todo.
