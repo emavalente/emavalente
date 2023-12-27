@@ -20,10 +20,10 @@ const emavalente = {
 <br> 
 <p width="300">💥 Sobre mi:</p>
 <p align="left">
-Soy de la provincia de Entre Ríos (Argentina), decidí darme la oportunidad de dedicarme a lo que realmente me gustó siempre, y en ello combinar otras capacidades de mi.. que mejor que haberme decidido por el desarrollo Frontend.
+Soy de la provincia de Entre Ríos (Argentina) y llevo 2 años en el desarrollo Frontend y actualmente con ganas de adentrarme al desarrollo Backend.
 </p>
 <p align="left">
-Uno de mis pasatiempos siempre fue el dibujo, el arte, desde muy pequeño, lo que me da un detalle y destreza para el diseño y la creación. El gusto por la informática siempre fue otro de mis grandes pasatiempos y bueno aquí estamos combinando todo.
+Uno de mis pasatiempos desde pequeño siempre fue el dibujo, el arte, lo que me da destreza para el diseño, el detalle y la creación de interfaces agradables. Asi también lo fue la informática, otro de mis grandes pasatiempos y en lo que me adentré no solo en lo técnico sino también en lo analítico; y bueno aquí estamos combinando todo.
 
 </p>
 <p align="left">
