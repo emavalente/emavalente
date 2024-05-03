@@ -34,17 +34,18 @@ Y por qué no ir más allá ? y por supuesto seguir desarrollandome a mi mismo t
 <p width="300">💫 Mi Stack Actual:</p>
 <p align="left">
  <div style="display: inline_block">
-  <img align="center" alt="Javascript logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/> 
+  <img align="center" alt="Javascript logo" height="30" width="40" src="https://www.svgrepo.com/show/373703/js.svg"/> 
+  <img align="center" alt="Typescript logo" height="30" width="40" src="https://www.svgrepo.com/show/374144/typescript.svg"/> 
   <img align="center" alt="React logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
   <img align="center" alt="HTML logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img align="center" alt="CSS logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
   <img align="center" alt="Git logo" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
-  <img align="center" alt="Boostrap logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
-  <img align="center" alt="Tailwind logo" height="30" width="30"src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/600px-Tailwind_CSS_Logo.svg.png" />
+  <img align="center" alt="Boostrap logo" height="30" width="40" src="https://www.svgrepo.com/show/303293/bootstrap-4-logo.svg" />
+  <img align="center" alt="Tailwind logo" height="30" width="30"src="https://www.svgrepo.com/show/374118/tailwind.svg" />
  <br>
  <br>
  <p align="left">Otras:</p>
-  <img align="center" alt="photoshop" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"/>
+  <img align="center" alt="photoshop" width="40" height="30" src="https://www.svgrepo.com/show/7054/photoshop.svg"/>
   <img align="center" alt="figma" width="40" height="30" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
 </div>
 </p>
