@@ -20,12 +20,11 @@ const emavalente = {
 <br> 
 <p width="300">💥 Sobre mi:</p>
 <p align="left">
-Soy de Paraná, provincia de Entre Ríos (Argentina), llevo 2 años en el desarrollo Frontend y realizando diseños UX/UI y actualmente con muchas ganas de adentrarme al desarrollo Backend. Una gran capacidad de aprendizaje y adaptabilidad, aplicando comunicación efectiva y empatía a la hora del trabajo en equipo.
-</p>
-<p align="left">
-Uno de mis pasatiempos desde pequeño siempre fue el dibujo, el arte, lo que me da destreza para el diseño, el detalle y la creación de interfaces agradables. Asi también lo fue la informática, otro de mis grandes pasatiempos y en lo que me adentré no solo en lo técnico sino también en lo analítico; y bueno aquí estamos combinando todo.
+Hola! 👋🏻 Soy desarrollador web con especialización en Frontend, apasionado por crear interfaces atractivas y funcionales que cumplan con las necesidades de cada desarrollo y cliente. Cuento con experiencia tanto en proyectos personales como en colaboración con equipos multidisciplinarios, aportando creatividad, comunicación efectiva y eficiencia en cada tarea. Sigo adentrándome en más tecnologías con el objetivo profesional de vivir de lo que me hace feliz.
+Si querés saber más sobre mi no dudes en contactarme!.
 
 </p>
+
 <p align="left">
 Y por qué no ir más allá ? y por supuesto seguir desarrollandome a mi mismo también. Siempre hay espacio para algo más!.
 </p>
@@ -34,14 +33,13 @@ Y por qué no ir más allá ? y por supuesto seguir desarrollandome a mi mismo t
 <p width="300">💫 Mi Stack Actual:</p>
 <p align="left">
  <div style="display: inline_block">
+  <img align="center" alt="HTML logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+  <img align="center" alt="CSS logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+  <img align="center" alt="Tailwind logo" height="30" width="30"src="https://www.svgrepo.com/show/374118/tailwind.svg" />
   <img align="center" alt="Javascript logo" height="30" width="40" src="https://www.svgrepo.com/show/373703/js.svg"/> 
   <img align="center" alt="Typescript logo" height="30" width="40" src="https://www.svgrepo.com/show/374144/typescript.svg"/> 
   <img align="center" alt="React logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
-  <img align="center" alt="HTML logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-  <img align="center" alt="CSS logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
   <img align="center" alt="Git logo" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
-  <img align="center" alt="Boostrap logo" height="30" width="40" src="https://www.svgrepo.com/show/303293/bootstrap-4-logo.svg" />
-  <img align="center" alt="Tailwind logo" height="30" width="30"src="https://www.svgrepo.com/show/374118/tailwind.svg" />
  <br>
  <br>
  <p align="left">Otras:</p>
