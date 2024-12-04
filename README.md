@@ -24,10 +24,6 @@ Hola! 👋🏻 Soy desarrollador web con especialización en Frontend, apasionad
 Si querés saber más sobre mi no dudes en contactarme!.
 
 </p>
-
-<p align="left">
-Y por qué no ir más allá ? y por supuesto seguir desarrollandome a mi mismo también. Siempre hay espacio para algo más!.
-</p>
 <br>
 
 <p width="300">💫 Mi Stack Actual:</p>
