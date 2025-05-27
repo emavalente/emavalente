@@ -14,13 +14,13 @@
 const emavalente = {
   profession: ["Frontend Developer", "PC technician", "Electronic technician", "illustrator" ],
   code: ["Javascript", "Typescript", "HTML", "CSS"],
-  tools: ["ReactJS", "Redux Toolkit", "Sass", "Bootstrap", "Tailwind", "GIT", "Figma"]
+  tools: ["ReactJS", "Zustand", "Tailwind", "Bootstrap", "GIT", "Figma"]
 }
 ```
 <br> 
 <p width="300">💥 Sobre mi:</p>
 <p align="left">
-Hola! 👋🏻 Soy desarrollador web con especialización en Frontend, apasionado por crear interfaces atractivas y funcionales que cumplan con las necesidades de cada desarrollo y cliente. Cuento con experiencia tanto en proyectos personales como en colaboración con equipos multidisciplinarios, aportando creatividad, comunicación efectiva y eficiencia en cada tarea. Sigo adentrándome en más tecnologías con el objetivo profesional de vivir de lo que me hace feliz.
+Hola! 👋🏻 Soy desarrollador web con especialización en Frontend, apasionado por crear interfaces atractivas y funcionales que cumplan con las necesidades de cada desarrollo. Cuento con experiencia tanto en proyectos personales como en colaboración con equipos multidisciplinarios, aportando creatividad, comunicación efectiva y eficiencia en cada tarea. Sigo adentrándome en más tecnologías con el objetivo profesional de vivir de lo que me hace feliz.
 Si querés saber más sobre mi no dudes en contactarme!.
 
 </p>
